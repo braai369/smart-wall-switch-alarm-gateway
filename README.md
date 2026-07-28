@@ -22,7 +22,7 @@ A practical, clean-installation IoT solution designed to solve real-world usabil
 
 | Bi-Directional Synchronization & Live Physical Test |
 | :---: |
-| ![Live Demo](9.mp4) |
+| ![Live Demo](9b.webp) |
 
 ---
 
