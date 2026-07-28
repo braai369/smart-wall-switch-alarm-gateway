@@ -18,11 +18,27 @@ A practical, clean-installation IoT solution designed to solve real-world usabil
 
 ---
 
-## 📸 Assembly & Installation Gallery
+## 🎬 Live Operation & Demonstration
 
-| Wall Box Wiring & USB PSU Integration | D1 Mini Interfacing & Final Mounting |
+| Bi-Directional Synchronization & Live Physical Test |
+| :---: |
+| ![Live Demo](9.mp4) |
+
+---
+
+## 📸 Assembly & Modification Gallery
+
+| 1. Internal Box Setup | 2. Component Layout | 3. USB Module Wiring |
+| :---: | :---: | :---: |
+| ![Step 1](1.jpg) | ![Step 2](2.jpg) | ![Step 3](3.jpg) |
+
+| 4. Switch LED Modification | 5. D1 Mini Wiring | 6. Bench Testing |
+| :---: | :---: | :---: |
+| ![Step 4](4.jpg) | ![Step 5](5.jpg) | ![Step 6](6.jpg) |
+
+| 7. Flush Wall Mounting | 8. Final Installation |
 | :---: | :---: |
-| ![Internal Assembly](1.jpg) | ![Final Wall Plate](2.jpg) |
+| ![Step 7](7.jpg) | ![Step 8](8.jpg) |
 
 ---
 
